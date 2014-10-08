@@ -31,7 +31,10 @@ public class GitLab implements EntryPoint {
 			+ "connection and try again.";
 
 
-
+// wrongwrongwrongwrongwrong ERORROEROEOREORRROEERRORRORRERORORORROEOROROR
+	public void makeError() {
+		
+	}
 	/**
 	 * This is the entry point method.
 	 */
